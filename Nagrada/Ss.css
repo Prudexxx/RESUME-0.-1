@@ -1,13 +1,15 @@
 *{
     box-sizing: border-box;
     margin: 0 auto;
+    
 
 
     
 }
+
 .SULKA{
    
-    font-size: 50px;
+    font-size: 20px;
     border: ;
     display: inline-block; /* Строчно-блочный элемент */
     background: #c93c3c; /* Серый цвет фона */
@@ -15,7 +17,7 @@
     padding: 1rem 1.5rem; /* Поля вокруг текста */
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px;
-   
+    
 }
 .pismo {
     
