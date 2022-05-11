@@ -103,6 +103,7 @@
     padding: 1rem 1.5rem; /* Поля вокруг текста */
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px;
+    transition: 0.5s;
 }
 .knopka:hover {
     transform: scale(1.2) translateX(1px) ;
