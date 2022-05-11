@@ -104,4 +104,7 @@
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px;
 }
+.knopka:hover {
+    transform: scale(1.2) translateX(1px) ;
 
+}
